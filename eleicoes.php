@@ -13,7 +13,7 @@
     $idade = 2023 - $ano;
     echo "Quem narceu em $ano tem idade de $idade anos.";
     $tipo = ($idade>=18 && $idade<65)?"OBRIGATORIO":"NAO OBRIGATORIO";
-    echo "E dessa forma seu voto e $tipo"; 
+    echo "E dessas formas seu voto e $tipo"; 
     ?>
 </div>    
 </body>
